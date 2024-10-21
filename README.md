@@ -176,7 +176,7 @@ int main() {
 * OUTPUT A: <BR>
 
 
-* OUTPUT B: <BR>*
+* OUTPUT B: <BR>
 
 
 * OUTPUT C: <BR>
